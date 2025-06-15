@@ -1,0 +1,28 @@
+﻿  Game.cpp
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u3092' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u521D' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u671F' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u5316' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u3067' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u304D' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u307E' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u305B' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(22,11): warning C4566: ユニバーサル文字名 '\u3093' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u30A6' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u30A3' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u30F3' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u30C9' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u306E' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u4F5C' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u6210' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u306B' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u5931' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u6557' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u3057' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u307E' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(38,11): warning C4566: ユニバーサル文字名 '\u305F' によって表示されている文字は、現在のコード ページ (1252) で表示できません
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(54,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\game1\Game.cpp(55,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  game1.vcxproj -> C:\Users\masas\OneDrive\ドキュメント\cppgame\game1\x64\Debug\game1.exe
+  C:\SDL2-2.32.8\lib\x64\SDL2.dll
+  1 File(s) copied
